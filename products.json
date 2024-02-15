@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Pokemon T-shirt",
+    "price": 29,
+    "image": "assets/img1.png",
+    "description": "Embrace the spirit of adventure with our Pokemon T-shirt. Made from high-quality materials, this shirt features iconic Pokemon designs, capturing the essence of your favorite creatures. Comfort meets style, making it a must-have for Pokemon enthusiasts. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod ex inventore sed atque consectetur dicta."
+  },
+  {
+    "id": 2,
+    "name": "Pokemon T-shirt",
+    "price": 29,
+    "image": "assets/img2.png",
+    "description": "Unleash your inner Pokemon Trainer with this stylish T-shirt. Whether you're battling in a gym or exploring the wild, our Pokemon-themed shirt keeps you in fashion. The vivid graphics and comfortable fit make it an ideal choice for fans of all ages. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod ex inventore sed atque consectetur dicta."
+  },
+  {
+    "id": 3,
+    "name": "Pokemon T-shirt",
+    "price": 29,
+    "image": "assets/img3.png",
+    "description": "Elevate your Pokemon journey with this eye-catching T-shirt. Featuring a blend of comfort and charm, it showcases your favorite Pokemon in a vibrant display. Whether you're a seasoned trainer or just starting your adventure, this shirt is a perfect addition to your collection. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod ex inventore sed atque consectetur dicta."
+  },
+  {
+    "id": 4,
+    "name": "Pokemon T-shirts",
+    "price": 49,
+    "image": "assets/img4.png",
+    "description": "Stand out with our exclusive Pokemon T-shirts collection. Packed with a variety of designs, each shirt is a tribute to the Pokemon universe. Crafted with care and attention to detail, these shirts are perfect for showcasing your love for Pokemon. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod ex inventore sed atque consectetur dicta."
+  },
+  {
+    "id": 5,
+    "name": "Pokemon T-shirt",
+    "price": 29,
+    "image": "assets/img5.png",
+    "description": "Step into the world of Pokemon with this unique T-shirt. The striking design and comfortable fabric make it an ideal choice for both casual and dedicated trainers. Express your love for Pokemon in style. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod ex inventore sed atque consectetur dicta."
+  },
+  {
+    "id": 6,
+    "name": "Snorlax Plush",
+    "price": 39,
+    "image": "assets/img6.png",
+    "description": "Cuddle up with the adorable Snorlax Plush. This soft and huggable companion is perfect for Pokemon fans of all ages. Whether it's for display or play, the Snorlax Plush brings the charm of the Pokemon world to your home. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod ex inventore sed atque consectetur dicta."
+  },
+  {
+    "id": 7,
+    "name": "Pikachu Plush",
+    "price": 39,
+    "image": "assets/img7.png",
+    "description": "Bring the electrifying cuteness of Pikachu into your life with this Pikachu Plush. Soft, plush, and full of charm, it's an excellent addition to any Pokemon collection. Whether you're a Pikachu enthusiast or a Pokemon collector, this plush is sure to delight. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod ex inventore sed atque consectetur dicta."
+  },
+  {
+    "id": 8,
+    "name": "Charizard Plush",
+    "price": 39,
+    "image": "assets/img8.png",
+    "description": "Ignite your Pokemon passion with the Charizard Plush. This fiery companion is not only a symbol of strength but also a soft and cuddly friend. Perfect for fans of the flame-breathing Pokemon, the Charizard Plush is a must-have for your collection. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod ex inventore sed atque consectetur dicta."
+  }
+]
