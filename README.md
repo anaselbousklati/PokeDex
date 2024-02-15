@@ -31,7 +31,7 @@ Voel je vrij om bij te dragen aan de ontwikkeling van de Pokedex-website. Als je
 
 Dit project valt onder de [MIT-licentie](LICENSE.md) - zie het bestand [LICENSE.md](LICENSE.md) voor details.
 
-
+Preview: https://pokedexbit.netlify.app/
 
 ![foto1](https://github.com/anaselbousklati/PokeDex/assets/74158385/ec57e858-2e87-4287-a6ac-8d3896beac23)
 ![foto2](https://github.com/anaselbousklati/PokeDex/assets/74158385/0a5f2ded-497a-407b-919a-ada224f2e44e)
