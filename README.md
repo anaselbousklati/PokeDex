@@ -15,7 +15,7 @@ Pokedex is ontworpen om gebruikers toegang te geven tot uitgebreide informatie o
 
 ### Installatie
 
-1. Clone de repository: `git clone https://github.com/["gebruikersnaam"]/pokedex-app.git`
+1. Clone de repository: `git clone https://github.com/anasselbousklati/pokedex-app.git`
 2. Navigeer naar de projectmap: `cd pokedex`
 3. Open `index.html` en je bent ready to go
 
